@@ -35,7 +35,7 @@ It contains:<br/>
 1- Date and time textfield by user dateAndTime Picker.<br/>
 2- content textfield to add whatever the user wants to add.<br/>
 3- Save Button: <br/>
-- When the user clicks on Save button<br/>
+  When the user clicks on Save button<br/>
 - In case he/she entered date, time and content you must dismiss the popup and add the todo.<br/>
 - Otherwise you must show an alert to tell him/her what is the the missed data and ask him/her to enter it.
 <br><br>
