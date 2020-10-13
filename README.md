@@ -29,7 +29,7 @@ It contains:<br/>
 <br><br>
 <img src = "TodoAppPics/Main1.png" width = 200 hight = 300>
 
-# 4-PopUP View (note Details)
+# 4-PopUP View (Note Details)
 It contains:<br/>
 1- Date and time textfield by user dateAndTime Picker.<br/>
 2- content textfield to add whatever the user wants to add.
