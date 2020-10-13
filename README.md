@@ -5,9 +5,14 @@ It is about 4 Views.
 
 # 1- SignUp View
 It contains user name, user email and password.<br/>
-After the user submittion by using the authentication the user email and the password will be stored with auto generated ID.<br/>
-And store the user id in the firebase database<br/>
-Note: There is a Regx check of the user email and password.<br/>
+ When	the	user	clicks on	Sign	Up	button<br/>
+		 - In	case	he/	she	entered invalid	data	he/she	should	see	an<br/>
+							alert	tell	him/her	what	is	wrong.<br/>
+     - In	case	he/	she	entered valid	data	you	must	save	his/her<br/>
+							credentials	to	a	Firebase Database and	if	the	process<br/>
+							succeeded he/she	should	go	to	main	screen. Otherwise<br/>
+							an	alert	must be shown	with	the	error.<br/>
+
 <br><br>
 <img src = "TodoAppPics/SignUp2.png" width = 200 hight = 300> 
 
