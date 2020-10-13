@@ -12,9 +12,11 @@ It contains user name, user email and password.<br/>
 <br><br>
 <img src = "TodoAppPics/SignUp2.png" width = 200 hight = 300> 
 
-# 2- SignUp View
+# 2- SignIn View
 It contains user email and password.<br/>
-Check the Regx and the user had signed up before or not.<br/>
+- In case the user already has an account and he/she try to log in via Sign In screen you must validate email and password.<br/>
+- In case he/she entered invalid data he/she should see an alert tell him/her what is wrong.<br/>
+- In case he/she entered valid data you must check if these credentials exist on database or not to decide to let him/her in or alert him/her with invalid credentials alert.<br/>
 <br><br>
 <img src = "TodoAppPics/SignIn.png" width = 200 hight = 300> 
 <br><br>
