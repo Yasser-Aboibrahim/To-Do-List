@@ -18,10 +18,7 @@ It contains user email and password.<br/>
 - In case he/she entered invalid data he/she should see an alert tell him/her what is wrong.<br/>
 - In case he/she entered valid data you must check if these credentials exist on database or not to decide to let him/her in or alert him/her with invalid credentials alert.<br/>
 <br><br>
-<img src = "TodoAppPics/SignIn.png" width = 200 hight = 300> 
-<br><br>
-<img src = "TodoAppPics/SignUp1.png" width = 200 hight = 300> 
-
+<img src = "TodoAppPics/SignIn.png" width = 200 hight = 300> | <img src = "TodoAppPics/SignUp1.png" width = 200 hight = 300>
 # 3-User List View
 It contains:<br/>
 1- Backarrow: to get back to signin view to log in with different user.<br/>
@@ -39,16 +36,10 @@ It contains:<br/>
 - In case he/she entered date, time and content you must dismiss the popup and add the todo.<br/>
 - Otherwise you must show an alert to tell him/her what is the the missed data and ask him/her to enter it.
 <br><br>
-<img src = "TodoAppPics/Popup1.png" width = 200 hight = 300> 
-<br><br>
-<img src = "TodoAppPics/Popup2.png" width = 200 hight = 300> 
-<br><br>
-<img src = "TodoAppPics/Popup3.png" width = 200 hight = 300> 
-
+<img src = "TodoAppPics/Popup1.png" width = 200 hight = 300> | <img src = "TodoAppPics/Popup2.png" width = 200 hight = 300> | <img src = "TodoAppPics/Popup3.png" width = 200 hight = 300> <br/>
 After adding the note and press save the user list view will show then the note will be added to the view and stored in the firebase database.
 <br><br>
 <img src = "TodoAppPics/Main2.png" width = 200 hight = 300> 
-
 In case the user wants to delete any note there is a delete icon for each added note to delete it.
 <br><br>
 <img src = "TodoAppPics/TodoDeletionAlert.png" width = 200 hight = 300> 
